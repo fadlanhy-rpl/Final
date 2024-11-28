@@ -1,4 +1,4 @@
-let titleText = "Quantum Data - ";
+let titleText = "Employé Tacker - ";
 let speed = 300;
 
 function scrollTitle() {
